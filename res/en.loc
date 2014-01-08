@@ -1,0 +1,5 @@
+error.not.found.device = Device not found
+error.not.found.command = Command not found
+error.load.image = Failed to load image file
+error.create.user = Failed to create user
+error.edit.user = Failed to edit user
